@@ -27,7 +27,7 @@ Let's get started:
 First, you can get the code by executing the following commands:
 
 $git clone URL https://github.com/ori12396/targil2.git
-$cd השם של זה כאן
+$cd targil2
 then execute the server side by runing the server.
 Then you can exectute the command 
 $npm start 
